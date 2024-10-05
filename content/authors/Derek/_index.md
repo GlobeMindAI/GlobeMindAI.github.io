@@ -73,7 +73,6 @@ email: ''
 user_groups:
   - Principle Supervisors
 ---
-
 Dr. Derek G. Ma is an Assistant Professor at the University of Warwick, specializes in Geo-Engineering and Data Science. His acclaimed interdisciplinary research, meriting a prestigious early career fellowship, focuses on the application of data science to geo-engineering. Honored with the Global Talent awarded by the Royal Academy of Engineering, Dr. Ma has significantly contributed to policy advisory roles with the Welsh Government's Coal Tips Safety Taskforces before moving to his permanent position in Warwick. His expertise further encompasses a key position as a corresponding member of the ISSMGE's TC309 technical committee, dedicated to Machine Learning and Big Data. Dr. Ma is recognized for his innovative research in geohazards, as well as his contributions to consulting and academia, particularly through pioneering work in stochastic computational catastrophe modeling and risk uncertainty quantification.
 
 His research focuses on multivariate modelling/AI prediction/probabilistic analysis in geoscience, specifically for failure analysis and risk assessment of granular flows, avalanches, and natural hazards. Derek develops robust statistical numerical algorithms through the integration of Computational Statistics and Data Science to quantitatively evaluate the uncertainties of granular flows in heterogeneous materials that exhibit significant randomness.
