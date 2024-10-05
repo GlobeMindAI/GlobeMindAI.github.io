@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Computational Geomechanics and Data Science
+role: Reader in Civil Engineering (Geomechanics)  
 
 # Organizations/Affiliations
 organizations:
