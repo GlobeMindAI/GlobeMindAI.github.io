@@ -18,7 +18,7 @@ role: Ph.D. Candidate of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Zhejiang University and University of Liverpool
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
