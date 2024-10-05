@@ -25,10 +25,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Stochastic Analysis of Geo-systems
   - Risk Assessment and Crisis Response of Natural/Anthropological Disasters
   - Artificial Intelligence and Machine Learning
   - Risk Pricing for catastrophe insurance and catastrophe bonds
+  - Stochastic Analysis of Geo-systems
     
 # education:
   # courses:
