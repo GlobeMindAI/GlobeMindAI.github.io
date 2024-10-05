@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - Project Leader
 ---
 
 Jianping Li is a Ph.D. candidadte majoring in Water Conservancy Engineering at Nanchang University as well as University of Warwick. My research interests mainly focus on three aspects: (1) slope reliability and large deformation analysis considering the spatial variability of rock and soil parameters; (2) Risk assessment of slope failure under rainfall infiltration conditions; (3) Random back analysis of geotechnical parameters based on Bayesian update method.
