@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - Project Leader
 ---
 
 Xian Liu is currently a PhD student in Civil Engineering at Sun Yat-sen University, as well as a joint PhD student at the University of Warwick. I obtained both my Bachelor’s and Master’s degrees from Nanchang University.
