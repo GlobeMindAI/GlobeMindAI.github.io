@@ -11,11 +11,12 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Project Leader
+          
           - Principal Supervisors
           - Researchers
           - Grad Students
           - Administration
+          - Project Leader
           - Visitors
           - Alumni
     
