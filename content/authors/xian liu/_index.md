@@ -3,26 +3,26 @@
 title: Xian Liu
 
 # Full name (for SEO)
-first_name:Xian
+first_name: Xian
 last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Zixiang Wei
+  - Xian Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate of Civil Engineering 
+role: Ph.D. Candidate of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Sun Yat-sen University & University of Warwick
+  - name: Sun Yat-sen University and University of Warwick
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xian Liu is currently a PhD student in Civil Engineering at Sun Yat-sen University, as well as a joint PhD student at the University of Warwick. I obtained both my Bachelor’s and Master’s degrees from Nanchang University.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
@@ -75,7 +75,7 @@ user_groups:
 
 Xian Liu is currently a PhD student in Civil Engineering at Sun Yat-sen University, as well as a joint PhD student at the University of Warwick. I obtained both my Bachelor’s and Master’s degrees from Nanchang University.
 
-My research primarily focuses on geotechnical engineering, with particular interests in efficient reliability analysis, risk assessment of soil slopes under rainfall infiltration, and probabilistic inverse analysis of geotechnical parameters. Additionally, my work includes reliability-based design of geotechnical structures, post-failure analysis of landslides, and regional landslide susceptibility analysis. I am especially passionate about enhancing the safety and stability of geotechnical systems through innovative risk and reliability methodologies. I am also exploring the application of AI and machine learning in addressing engineering challenges. 
+My research primarily focuses on geotechnical engineering, with particular interests in efficient reliability analysis, risk assessment of soil slopes under rainfall infiltration, and probabilistic inverse analysis of geotechnical parameters. Additionally, my work includes reliability-based design of geotechnical structures, post-failure analysis of landslides, and regional landslide susceptibility analysis. I am especially passionate about enhancing the safety and stability of geotechnical systems through innovative risk and reliability methodologies. I am also exploring the application of AI and machine learning in addressing engineering challenges. To date, I have published 25 academic papers in leading journals in our field, including Computers and Geotechnics, Structural Safety, and Canadian Geotechnical Journal.
+ 
 
-To date, I have published 25 academic papers in leading journals in our field, including Computers and Geotechnics, Structural Safety, and Canadian Geotechnical Journal.
 
