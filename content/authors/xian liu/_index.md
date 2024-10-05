@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate of Artificial Intelligence
+role: Ph.D. Candidate of  Geotechnical Engineering
 
 # Organizations/Affiliations
 organizations:
