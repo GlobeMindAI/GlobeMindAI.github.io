@@ -1,33 +1,32 @@
 ---
 # Display name
-title: Wenhao Li
+title: Yuhan Wang
 
 # Full name (for SEO)
-first_name: Jianping
-last_name: Li
+first_name: Yuhan
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Jianping Li
+  - Yuhan Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate of Geotechnical Engineering
+role: Ph.D. Candidate of Computational Geomechanics
 
 # Organizations/Affiliations
 organizations:
-  - name: Tianjin University and University of Warwick
+  - name: ETH Zürich
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Disaster Engineering Analysis
-  - Probabilistic Methods for Risk Prevention
-  - Deep Learning
+  - Computational Geomechanics 
+  - Human Induced Earthquakes
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +60,7 @@ user_groups:
   - Administration
 ---
 
-Wenhao Li is a joint Ph.D. candidate in the Department of Civil Engineering at Tianjin University also in University of Warwick, specializing in geotechnical engineering and deep-sea energy soil research. His research focuses on the micromechanical properties of deep-sea energy soils, disaster engineering analysis, and probabilistic methods for risk prevention. He has a particular interest in applying deep learning techniques to study the spatial variability of deep-sea soils and the geological risks associated with natural gas hydrate extraction.
+Yuhan Wang obtained his master’s degree from Tongji University in 2022 and bachelor’s degree from Central South University in 2019 with a six-month research appointment in Monash University. He is currently a Ph.D. researcher in Swiss Seismological Service, ETH Zürich. His current focus is computational geomechanics and human induced earthquakes.
 
 
 
