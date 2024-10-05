@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - Project Leader
 ---
 
 Peisong Li is currently a Postdoc. in Zhejiang University and researcher in Hangzhou Research Institute of Xidian University. He received his PhD degree from the University of Liverpool in 2024, Master degree from Shanghai Maritime University in 2020, and Bachelor degree from Guilin University of Electronic Technology in 2017. He has totally 14 publications (e.g. IEEE T-ITS, IEEE T-IV, IEEE T-CE, INFFUS), 2 ESI highly cited papers, and 4 granted patents. The highest citation number of a single technical paper on Google Scholar is over 370. Overall citation is over 490. His research interests include intelligent transportation, vehicular network, edge computing, edge AI, and reinforcement learning.
