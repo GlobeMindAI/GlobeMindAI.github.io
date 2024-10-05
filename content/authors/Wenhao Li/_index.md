@@ -3,12 +3,12 @@
 title: Wenhao Li
 
 # Full name (for SEO)
-first_name: Jianping
+first_name: Wenhao
 last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - Jianping Li
+  - Wenhao Li
 
 # Is this the primary user of the site?
 superuser: false
