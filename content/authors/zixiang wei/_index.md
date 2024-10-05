@@ -18,16 +18,17 @@ role: Ph.D. Candidate of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Warwick
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Smart Sensing and Perception
+  - Robust Deep Learning under Data Degradation
+
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +62,6 @@ user_groups:
   - Administration
 ---
 
-Zixiang Wei is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zixiang Wei is a PhD candidate at the University of Warwick, where he focuses on cutting-edge research in intelligent perception and robust AI models, particularly their applications in smart grids and intelligent transportation systems. Prior to his PhD, Wei worked as a research assistant at the Hong Kong University of Science and Technology for 18 months, gaining valuable experience in computational modeling and AI-driven systems. Additionally, he serves as a remote research fellow at Tongji University, further broadening his academic expertise through collaborative projects across institutions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+With a deep understanding of both high-level and low-level computer vision problems, Wei has contributed significantly to the field, addressing challenges such as image enhancement, object detection, and scene understanding. His work spans diverse AI applications in real-world systems, with a focus on enhancing the efficiency, resilience, and intelligence of critical infrastructures. Wei has published several papers in prominent journals, including TAI, TASE, TSG, and TPD, solidifying his presence in the academic community.
