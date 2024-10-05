@@ -18,7 +18,7 @@ role: Ph.D. Candidate of Geotechnical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Nanchang University and University of Warwick
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
