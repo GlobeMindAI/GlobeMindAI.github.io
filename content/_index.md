@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Globe Mind Ai
+        GlobeMind AI
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Globe Mind AI Research Group** is a leading global research group with extensive collaborations across top universities, research institutes, and               industry partners.
+        The **GlobeMind AI Research Group** is a leading global research group with extensive collaborations across top universities, research institutes, and               industry partners.
   
   # - block: collection
     # content:
