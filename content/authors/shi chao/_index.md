@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor Chao Shi
+title: Chao Shi
 
 # Full name (for SEO)
 first_name: Chao
@@ -13,21 +13,22 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Computational Geomechanics and Data Science
+role: Assistant Professor in Geotechnical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Warwick
+  - name: Nanyang Technological University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing, and programmable matter.
 
 interests:
-  - Risk Assessment and Crisis Response of Natural/Anthropological Disasters
-  - Artificial Intelligence and Machine Learning
-  - Risk Pricing for catastrophe insurance and catastrophe bonds
-  - Stochastic Analysis of Geo-systems
+  - Machine Learning of Sparse Geodata for Underground Digital Twin
+  - Soil-structure Interaction
+  - Geo-energy System such as Energy Piles
+  - Multi-source Data Fusion for TBM Tunnelling
+  - Coastal Protection
 
 
 # Social/Academic Networking
@@ -60,7 +61,4 @@ user_groups:
   - Supervisor
   - Administration
 ---
-Dr. Derek G. Ma is an Assistant Professor at the University of Warwick, specializes in Geo-Engineering and Data Science. His acclaimed interdisciplinary research, meriting a prestigious early career fellowship, focuses on the application of data science to geo-engineering. Honored with the Global Talent awarded by the Royal Academy of Engineering, Dr. Ma has significantly contributed to policy advisory roles with the Welsh Government's Coal Tips Safety Taskforces before moving to his permanent position in Warwick. His expertise further encompasses a key position as a corresponding member of the ISSMGE's TC309 technical committee, dedicated to Machine Learning and Big Data. Dr. Ma is recognized for his innovative research in geohazards, as well as his contributions to consulting and academia, particularly through pioneering work in stochastic computational catastrophe modeling and risk uncertainty quantification.
-
-His research focuses on multivariate modelling/AI prediction/probabilistic analysis in geoscience, specifically for failure analysis and risk assessment of granular flows, avalanches, and natural hazards. Derek develops robust statistical numerical algorithms through the integration of Computational Statistics and Data Science to quantitatively evaluate the uncertainties of granular flows in heterogeneous materials that exhibit significant randomness.
-
+Dr. Shi is currently an Assistant Professor in geotechnical engineering. He obtained his PhD in Geotechnical Engineering and MSc degree in Financial Mathematics and Statistics from City University of Hong Kong in 2022 and 2019, respectively. He also received an MPhil degree in Geotechnical Engineering from the Hong Kong University of Science and Technology in 2015. He is a chartered geotechnical engineer in both the UK and mainland China, with five years’ industry experience in internationally leading consultancy and contractor company in Hong Kong. He used to lead or participate in the design and construction works of various high-profile infrastructure projects, such as reclamation works for Hong Kong-Zhuhai-Macau bridge, ground improvement works for the 3rd runway of the Hong Kong International Airport, and subsea tunnelling works for an MTR link. His research interests include soil mechanics, machine learning of geo-data, centrifuge modelling and numerical analysis of soil-structure interaction, and geo-energy system. The recruitment of PhD students, Research Assistants, and Postdocs is ongoing. Interested candidates, please contact Dr. Shi.
