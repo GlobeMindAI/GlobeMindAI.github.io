@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Supervisors
+  #- Principal Supervisors
 ---
 Dr. KK Phoon is Distinguished Professor and Vice Provost (Academic Personnel), National University of Singapore. He is widely recognized for his work on developing statistical and other data-driven methods to support decision making in geotechnical engineering. His work has influenced recent codes such as ISO2394:2015 “General principles on reliability for structures” and garnered more than 10,000 cites (h-index 47) in Google Scholar. He is the recipient of numerous awards notably the ASCE Norman Medal, the John Booker Medal, and the Humboldt Research Award.
 
