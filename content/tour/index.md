@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the GlobeMind AI!
-        content: We are aiming at next generation of smart earth science.
+        content: We are aiming at next generation of earth science.
         align: center
         background:
           image:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Focus & Research
         content: '
 We focus on geotechnology, geophysics, intelligent transportation, energy, power grids, and blockchain.'
         align: left
@@ -29,7 +29,7 @@ We focus on geotechnology, geophysics, intelligent transportation, energy, power
               brightness: 0.7
           position: center
           color: '#555'
-      - title: We are a world-class research group in AI and Earth sciences.
+      - title: We are a world-class group in AI application.
         content: 'We are looking for self-motivated candidates!'
         align: right
         background:
