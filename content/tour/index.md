@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the GlobeMind AI!
+        content: We are aiming at next generation of smart earth science.
         align: center
         background:
           image:
@@ -19,7 +19,8 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: '
+We focus on geotechnology, geophysics, intelligent transportation, energy, power grids, and blockchain.'
         align: left
         background:
           image:
@@ -28,8 +29,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: We are a world-class research group in AI and Earth sciences.
+        content: 'We are looking for self-motivated candidates!'
         align: right
         background:
           image:
