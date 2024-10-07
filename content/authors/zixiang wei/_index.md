@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - 
 ---
 
 Zixiang Wei is a PhD candidate at the University of Warwick, where he focuses on cutting-edge research in intelligent perception and robust AI models, particularly their applications in smart grids and intelligent transportation systems. Prior to his PhD, Wei worked as a research assistant at the Hong Kong University of Science and Technology for 18 months, gaining valuable experience in computational modeling and AI-driven systems. Additionally, he serves as a remote research fellow at Tongji University, further broadening his academic expertise through collaborative projects across institutions.
