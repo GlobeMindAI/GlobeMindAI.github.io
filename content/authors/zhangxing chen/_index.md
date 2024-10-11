@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of University of Calgary
+role: Professor of UCalgary
 
 # Organizations/Affiliations
 organizations:
