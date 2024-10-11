@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project Leader
+  - Project Leaders
 ---
 
 Wenhao Li is a joint Ph.D. candidate in the Department of Civil Engineering at Tianjin University also in University of Warwick, specializing in geotechnical engineering and deep-sea energy soil research. His research focuses on the micromechanical properties of deep-sea energy soils, disaster engineering analysis, and probabilistic methods for risk prevention. He has a particular interest in applying deep learning techniques to study the spatial variability of deep-sea soils and the geological risks associated with natural gas hydrate extraction.
