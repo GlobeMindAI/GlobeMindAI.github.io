@@ -1,6 +1,6 @@
 ---
 title: Warwick-SJTU Collaborative PhD Mobility Programme
-date: 2024-10-03
+date: 2024
 image:
   focal_point: 'top'
 ---
