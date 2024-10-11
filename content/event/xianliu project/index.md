@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Robustness in Autonomous Driving: Sensing, Perception, and Planning Under Adverse Geological Conditions"
+title: "Uncertainty Modeling and Machine Learning Applications in Geotechnical Engineering"
 
 summary: "This research aims to explore the integration of uncertainty modeling and machine learning techniques to advance geotechnical engineering practices."
 
