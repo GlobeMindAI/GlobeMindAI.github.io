@@ -14,13 +14,6 @@ Objectives: '1. To develop a comprehensive framework for uncertainty modeling in
 date: '2024-11-01'
 date_end: '2025-06-01'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
 featured: false
 
 image:
