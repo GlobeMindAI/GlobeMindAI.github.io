@@ -1,5 +1,5 @@
 ---
-title: Warwick-EIT Collaborative PhD Mobility Programme
+title: Warwick A*STAR Research Attachment Programme (ARAP)
 date: 2024-10-01
 image:
   focal_point: 'top'
