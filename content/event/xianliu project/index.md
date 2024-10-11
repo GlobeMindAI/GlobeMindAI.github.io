@@ -1,6 +1,8 @@
 ---
 title: "Advanced Uncertainty Modeling and AI-Enhanced Machine Learning Applications in Geotechnical Engineering for Predictive Analysis and Risk Assessment"
+
 summary: "This research aims to explore the integration of uncertainty modeling and machine learning techniques to advance geotechnical engineering practices."
+
 abstract: "The geotechnical engineering field has long been challenged by the inherent uncertainties associated with soil properties, geological variability, and site conditions. Traditional geotechnical design methods often rely on simplified assumptions, empirical correlations, and deterministic models, which can struggle to adequately capture the complex behaviors and uncertainties present in natural systems. This proposal seeks to explore the use of uncertainty modeling and machine learning techniques to advance the practice of geotechnical engineering, providing a more robust and data-driven foundation for analysis, design, and decision-making.
 
 -**problem_statement**: Geotechnical engineering problems are frequently influenced by uncertainties that arise from the heterogeneity of soils, complex interactions between geological materials, and limitations in data collection. Current deterministic approaches often overlook or inadequately represent this uncertainty, leading to potentially inaccurate predictions of soil behavior, foundation performance, and slope stability. As geotechnical projects become more ambitious, there is a growing need to develop tools that can effectively account for these uncertainties to ensure safety, efficiency, and reliability in geotechnical design and construction.
@@ -11,7 +13,7 @@ abstract: "The geotechnical engineering field has long been challenged by the in
  - To evaluate the effectiveness of machine learning models in comparison to traditional methods, particularly in scenarios involving limited or noisy data.
  - To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.
 
- -The proposed research will span over three years with a budget allocate
+-The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
 date: "2022-09-01"
 date_end: "2025-09-01"
