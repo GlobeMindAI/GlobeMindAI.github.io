@@ -18,8 +18,7 @@ role: senior AI engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: State Key Laboratory of Mobile Network and Mobile Multimedia Technology, ZTE Corporation, Shenzhen, China
-Algorithm Department, Wireless Product Research and Development Institute, ZTE Corporation, Shanghai, China
+  - name: State Key Laboratory of Mobile Network and Mobile Multimedia Technology, ZTE Corporation, Shenzhen, China; Algorithm Department, Wireless Product Research and Development Institute, ZTE Corporation, Shanghai, China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
