@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project Leader
+  - Project Leaders
 ---
 
 Yuhan Wang obtained his master’s degree from Tongji University in 2022 and bachelor’s degree from Central South University in 2019 with a six-month research appointment in Monash University. He is currently a Ph.D. researcher in Swiss Seismological Service, ETH Zürich. His current focus is computational geomechanics and human induced earthquakes.
