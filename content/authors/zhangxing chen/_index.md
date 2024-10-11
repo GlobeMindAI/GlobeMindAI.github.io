@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Advisors
 ---
 Dr. Chen's research has created a state-of-the-art reservoir simulation toolkit that allows for multiple parallel runs, faster computation and rigorous optimization. He has developed numerical techniques that are faster and have greater accuracy than are currently available. These techniques will assist history matching methods and increase the effectiveness of field optimization. In turn, these advancements will improve the workflow, including risk and uncertainty analysis. There will be an overall significant improvement in the modeling and simulation processes of enhanced oil recovery for unconventional oil and gas (tight and shale oil and gas, CBM), heavy oil and oil sands.
 
