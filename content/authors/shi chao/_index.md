@@ -58,6 +58,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Advisors
 ---
 Dr. Shi is currently an Assistant Professor in geotechnical engineering. He obtained his PhD in Geotechnical Engineering and MSc degree in Financial Mathematics and Statistics from City University of Hong Kong in 2022 and 2019, respectively. He also received an MPhil degree in Geotechnical Engineering from the Hong Kong University of Science and Technology in 2015. He is a chartered geotechnical engineer in both the UK and mainland China, with five years’ industry experience in internationally leading consultancy and contractor company in Hong Kong. He used to lead or participate in the design and construction works of various high-profile infrastructure projects, such as reclamation works for Hong Kong-Zhuhai-Macau bridge, ground improvement works for the 3rd runway of the Hong Kong International Airport, and subsea tunnelling works for an MTR link. His research interests include soil mechanics, machine learning of geo-data, centrifuge modelling and numerical analysis of soil-structure interaction, and geo-energy system. The recruitment of PhD students, Research Assistants, and Postdocs is ongoing. Interested candidates, please contact Dr. Shi.
