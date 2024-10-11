@@ -8,13 +8,13 @@ abstract: "Autonomous driving technology has advanced rapidly, but its reliabili
 Existing autonomous driving systems often rely on optimal weather conditions for accurate functioning. However, geological variability can lead to performance degradation. Previous studies have shown the potential for machine learning and sensor fusion to mitigate these challenges, but comprehensive approaches combining these elements in real-world scenarios remain limited.
 
 **Objectives**
-**Sensing Robustness:** Develop and evaluate advanced sensor technologies and fusion techniques to improve data collection in adverse conditions.
+-**Sensing Robustness:** Develop and evaluate advanced sensor technologies and fusion techniques to improve data collection in adverse conditions.
 
-**Perception Enhancement:** Implement machine learning algorithms to enhance object detection and classification, ensuring accurate perception despite degraded sensor data.
+-**Perception Enhancement:** Implement machine learning algorithms to enhance object detection and classification, ensuring accurate perception despite degraded sensor data.
 
-**Planning Adaptation:** Create adaptive planning algorithms that can adjust driving strategies based on real-time environmental assessments and sensor inputs.
+-**Planning Adaptation:** Create adaptive planning algorithms that can adjust driving strategies based on real-time environmental assessments and sensor inputs.
 
-**Field Testing:** Conduct extensive field tests in diverse geological conditions to validate the proposed methods and algorithms.
+-**Field Testing:** Conduct extensive field tests in diverse geological conditions to validate the proposed methods and algorithms.
 
 The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
