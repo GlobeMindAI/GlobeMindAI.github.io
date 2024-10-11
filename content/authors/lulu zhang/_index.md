@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Mohaddeseh Mousavi Nezhad
+title: Lulu Zhang
 
 # Full name (for SEO)
-first_name: Mohaddeseh 
-last_name: Mousavi Nezhad
+first_name: Lulu
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Mohaddeseh Mousavi Nezhad
+  - Lulu Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor in Civil and Environmental Engineering
+role: Professor of SJTU
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Liverpool
+  - name: Shanghai Jiao Tong University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
