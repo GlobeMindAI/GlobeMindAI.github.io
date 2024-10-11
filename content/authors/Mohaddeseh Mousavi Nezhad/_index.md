@@ -59,6 +59,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Supervisors
 ---
 Dr. Mohad Mousavi Nezhad is a Professor in Environmental Fluid Dynamics in the School of Engineering of University of Liverpool. She leads water and natural environment research cluster. Her research focuses on investigating the physics of heterogeneous materials and developing efficient and robust numerical algorithms through integration of Computational Statistics and Data Science to reliably capture hydro-chemo-mechanical behaviour of a wide variety of heterogeneous materials that exhibit significant randomness.
