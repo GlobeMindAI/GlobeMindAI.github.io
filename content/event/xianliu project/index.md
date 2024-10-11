@@ -1,24 +1,16 @@
 ---
 title: Uncertainty modeling and machine learning applications in geotechnical engineering
 
-event: Wowchemy Conference
-event_url: https://example.org
+summary: Uncertainty modeling and machine learning applications in geotechnical engineering.
+abstract: 'The geotechnical engineering field has long been challenged by the inherent uncertainties associated with soil properties, geological variability, and site conditions. Traditional geotechnical design methods often rely on simplified assumptions, empirical correlations, and deterministic models, which can struggle to adequately capture the complex behaviors and uncertainties present in natural systems. This proposal seeks to explore the use of uncertainty modeling and machine learning techniques to advance the practice of geotechnical engineering, providing a more robust and data-driven foundation for analysis, design, and decision-making.'
+Problem Statement
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+Geotechnical engineering problems are frequently influenced by uncertainties that arise from the heterogeneity of soils, complex interactions between geological materials, and limitations in data collection. Current deterministic approaches often overlook or inadequately represent this uncertainty, leading to potentially inaccurate predictions of soil behavior, foundation performance, and slope stability. As geotechnical projects become more ambitious, there is a growing need to develop tools that can effectively account for these uncertainties to ensure safety, efficiency, and reliability in geotechnical design and construction.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-11-01'
+date_end: '2025-06-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -54,11 +46,11 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+References:
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+- Liu, X., Ma, G., Rezania, M., Li, X., & Jiang, S. H. (2024). An improved BUS approach for Bayesian inverse analysis of soil parameters incorporating extensive field data. Computers and Geotechnics, 174, 106641. [_Slides_](https://doi.org/10.1016/j.compgeo.2024.106641) 
+- Liu, X., Liu, Y., Yang, Z., & Li, X. (2024). A novel dimension reduction-based metamodel approach for efficient slope reliability analysis considering soil spatial variability. Computers and Geotechnics, 172, 106423. [_Slides_](https://doi.org/10.1016/j.compgeo.2024.106423) 
+- Liu, X., Liu, Y., Li, X., Yang, Z., & Jiang, S. H. (2023). Efficient adaptive reliability-based design optimization for geotechnical structures with multiple design parameters. Computers and Geotechnics, 162, 105675. [_Slides_](https://doi.org/10.1016/j.compgeo.2023.105675) 
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.
 
