@@ -20,8 +20,10 @@ date_end: "2026-06-01"
 all_day: false
 featured: false
 
+---
+
 **References**:
 - Liu, X., Ma, G., Rezania, M., Li, X., & Jiang, S. H. (2024). An improved BUS approach for Bayesian inverse analysis of soil parameters incorporating extensive field data. Computers and Geotechnics, 174, 106641. [_ref_](https://doi.org/10.1016/j.compgeo.2024.106641)
 - Liu, X., Liu, Y., Yang, Z., & Li, X. (2024). A novel dimension reduction-based metamodel approach for efficient slope reliability analysis considering soil spatial variability. Computers and Geotechnics, 172, 106423. [_ref_](https://doi.org/10.1016/j.compgeo.2024.106423)
 - Liu, X., Liu, Y., Li, X., Yang, Z., & Jiang, S. H. (2023). Efficient adaptive reliability-based design optimization for geotechnical structures with multiple design parameters. Computers and Geotechnics, 162, 105675. [_ref_](https://doi.org/10.1016/j.compgeo.2023.105675)
----
+
