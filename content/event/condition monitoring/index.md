@@ -10,9 +10,7 @@ abstract: "Power systems span a wide range of environments, including deserts, f
 **Objectives**
 -**Dynamic Monitoring Framework:**  Develop a Machine Vision-assisted framework capable of adapting to various geographical terrains (deserts, forests, mountains, tundra) and weather conditions (rain, fog, snow, extreme heat)
 
-
-
--**Dynamic Monitoring Framework:**  Develop machine learning algorithms that take into account the geographical and environmental context to optimize UAV flight patterns, sensor positioning, and data collection strategies for different conditions. Ensure that UAVs can operate autonomously and safely under adverse weather conditions, minimizing the risk of system failures and reducing the need for manual inspections.
+-**Safety Validation and Verification:**  Develop machine learning algorithms that take into account the geographical and environmental context to optimize UAV flight patterns, sensor positioning, and data collection strategies for different conditions. Ensure that UAVs can operate autonomously and safely under adverse weather conditions, minimizing the risk of system failures and reducing the need for manual inspections.
 
 
 
