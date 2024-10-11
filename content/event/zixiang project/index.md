@@ -18,8 +18,8 @@ Existing autonomous driving systems often rely on optimal weather conditions for
 
 The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2024-06-01"
+date_end: "2027-06-01"
 all_day: false
 
 publishDate: "2017-01-01T00:00:00Z"
