@@ -7,7 +7,7 @@ abstract: "The geotechnical engineering field has long been challenged by the in
 
 problem_statement: "Geotechnical engineering problems are frequently influenced by uncertainties that arise from the heterogeneity of soils, complex interactions between geological materials, and limitations in data collection. Current deterministic approaches often overlook or inadequately represent this uncertainty, leading to potentially inaccurate predictions of soil behavior, foundation performance, and slope stability. As geotechnical projects become more ambitious, there is a growing need to develop tools that can effectively account for these uncertainties to ensure safety, efficiency, and reliability in geotechnical design and construction."
 
-objectives:
+objectives:"
 
 To develop a comprehensive framework for uncertainty modeling in geotechnical engineering using probabilistic approaches.
 
@@ -15,7 +15,7 @@ To integrate machine learning techniques into geotechnical analysis, enabling th
 
 To evaluate the effectiveness of machine learning models in comparison to traditional methods, particularly in scenarios involving limited or noisy data.
 
-To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.
+To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights."
 
 research_details: "The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
