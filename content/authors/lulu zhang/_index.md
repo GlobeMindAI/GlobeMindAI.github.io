@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Co-Supervisors
 ---
 Prof. Lulu Zhang, born in 1978, is a Distinguished Professor at Shanghai Jiao Tong University and a recipient of the National Science Fund for Distinguished Young Scholars. She graduated with a bachelor's degree from the Department of Hydraulic and Hydropower Engineering at Tsinghua University in 2000 and earned her Ph.D. from the Department of Civil Engineering at the Hong Kong University of Science and Technology in 2005. Her primary research interests include geotechnical hazards and risk control. She currently serves as an editorial board member for international journals such as Computers & Geotechnics and Bulletin of Engineering Geology and the Environment, and is a council member of the Engineering Risk and Insurance Research Division of the China Civil Engineering Society. She has published over 80 journal papers, authored one English monograph, and co-authored two textbooks. She has received two first prizes in Natural Science from the Ministry of Education (one as the first author), the Young Scientist Award from the International Association for Geotechnical Engineering Safety, and the Shanghai Women’s Pioneer Honorary Title.
 
