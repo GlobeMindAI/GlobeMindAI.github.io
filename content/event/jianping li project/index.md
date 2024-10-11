@@ -16,7 +16,7 @@ abstract: "Landslides pose significant threats to infrastructure, human safety, 
 -The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
 date: "2023-09-01"
-date_end: "2026-06-01"
+date_end: "2026-09-01"
 all_day: false
 featured: false
 
