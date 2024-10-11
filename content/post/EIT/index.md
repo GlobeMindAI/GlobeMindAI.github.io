@@ -1,6 +1,6 @@
 ---
 title: Warwick-EIT Collaborative PhD Mobility Programme
-date: 2024-11-01
+date: 2024-10-01
 image:
   focal_point: 'top'
 ---
