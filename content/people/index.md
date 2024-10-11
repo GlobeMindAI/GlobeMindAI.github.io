@@ -14,7 +14,7 @@ sections:
           
           - Supervisors
           - Co-Supervisors
-          - Grad Students
+          - Advisors
           - Administration
           - Project Leaders
           - Visitors
