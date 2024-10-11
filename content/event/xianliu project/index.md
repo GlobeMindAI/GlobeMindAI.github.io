@@ -7,9 +7,7 @@
 
 **problem_statement**: "Geotechnical engineering problems are frequently influenced by uncertainties that arise from the heterogeneity of soils, complex interactions between geological materials, and limitations in data collection. Current deterministic approaches often overlook or inadequately represent this uncertainty, leading to potentially inaccurate predictions of soil behavior, foundation performance, and slope stability. As geotechnical projects become more ambitious, there is a growing need to develop tools that can effectively account for these uncertainties to ensure safety, efficiency, and reliability in geotechnical design and construction."
 
-**objectives**:
-
-"1. To develop a comprehensive framework for uncertainty modeling in geotechnical engineering using probabilistic approaches.
+**objectives**: "1. To develop a comprehensive framework for uncertainty modeling in geotechnical engineering using probabilistic approaches.
 
 2. To integrate machine learning techniques into geotechnical analysis, enabling the prediction of soil properties, bearing capacities, and other critical parameters from complex and varied datasets.
 
