@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty Modeling and Machine Learning Applications in Geotechnical Engineering"
+title: "Advanced Uncertainty Modeling and AI-Enhanced Machine Learning Applications in Geotechnical Engineering for Predictive Analysis and Risk Assessment"
 
 summary: "This research aims to explore the integration of uncertainty modeling and machine learning techniques to advance geotechnical engineering practices."
 
