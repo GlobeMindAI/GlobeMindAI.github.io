@@ -13,7 +13,7 @@ abstract: "The geotechnical engineering field has long been challenged by the in
  - To evaluate the effectiveness of machine learning models in comparison to traditional methods, particularly in scenarios involving limited or noisy data.
  - To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.
 
--The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
+>The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
 date: "2022-09-01"
 date_end: "2025-09-01"
