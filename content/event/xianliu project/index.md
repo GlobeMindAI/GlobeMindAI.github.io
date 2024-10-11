@@ -7,7 +7,7 @@ Problem Statement: 'Geotechnical engineering problems are frequently influenced 
 Objectives: '1. To develop a comprehensive framework for uncertainty modeling in geotechnical engineering using probabilistic approaches.
 2. To integrate machine learning techniques into geotechnical analysis, enabling the prediction of soil properties, bearing capacities, and other critical parameters from complex and varied datasets.
 3. To evaluate the effectiveness of machine learning models in comparison to traditional methods, particularly in scenarios involving limited or noisy data.
-4.To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.'
+4. To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
