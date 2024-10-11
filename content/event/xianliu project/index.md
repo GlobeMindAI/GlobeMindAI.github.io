@@ -16,7 +16,6 @@ date_end: '2025-06-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
