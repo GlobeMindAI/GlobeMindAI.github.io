@@ -14,7 +14,7 @@ abstract: "Geotechnical engineering faces diverse challenges, from resource extr
 -The proposed research will span over three years with a budget allocated for equipment, personnel, and field testing. A detailed budget breakdown and timeline will be provided upon request."
 
 date: "2024-01-01"
-date_end: "2026-12-31"
+date_end: "2026-12-30"
 all_day: false
 featured: false
 
