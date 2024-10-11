@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        We are currently hiring project leaders, fully funded PhD candidates, self-funded PhD candidates, visiting scholars, and research interns. If you are passionate about cutting-edge research and innovation, we invite you to apply and join our team!
+        We are currently hiring project leaders, fully funded PhD candidates, self-funded PhD candidates, visiting scholars, and research interns. If you are passionate about our research and innovation, we invite you to apply and join our team!
       email: globemindai@gmail.com
       #contact_links:
       #  - icon: comments
