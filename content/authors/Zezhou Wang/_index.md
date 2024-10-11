@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Advisors
 ---
  Ze Zhou Wang is currently a Marie Skłodowska-Curie fellow at the University of Cambridge, serving as the principal investigator of a research project funded by the European Union and UK Research and Innovation. His research is at the intersection of infrastructure sensing, computational modelling, data science, artificial intelligence, reliability, geotechnical/infrastructure engineering. His current fellowship project at the University of Cambridge aims to utilize both historical performance data and continuous monitoring data to advance the understanding of how climate, microclimate, traffic, and natural hazards interactively impact England's road assets. He will then provide recommendations for maintenance and repair decisions that balance cost, carbon and environmental benefits.
 
