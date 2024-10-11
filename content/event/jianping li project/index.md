@@ -1,13 +1,13 @@
 ---
-title: Uncertainty modeling and machine learning applications in geotechnical engineering
+title: Stochastic Hazard Assessment of Landslide
 
-summary: Uncertainty modeling and machine learning applications in geotechnical engineering.
-abstract: 'The geotechnical engineering field has long been challenged by the inherent uncertainties associated with soil properties, geological variability, and site conditions. Traditional geotechnical design methods often rely on simplified assumptions, empirical correlations, and deterministic models, which can struggle to adequately capture the complex behaviors and uncertainties present in natural systems. This proposal seeks to explore the use of uncertainty modeling and machine learning techniques to advance the practice of geotechnical engineering, providing a more robust and data-driven foundation for analysis, design, and decision-making.'
-Problem Statement: 'Geotechnical engineering problems are frequently influenced by uncertainties that arise from the heterogeneity of soils, complex interactions between geological materials, and limitations in data collection. Current deterministic approaches often overlook or inadequately represent this uncertainty, leading to potentially inaccurate predictions of soil behavior, foundation performance, and slope stability. As geotechnical projects become more ambitious, there is a growing need to develop tools that can effectively account for these uncertainties to ensure safety, efficiency, and reliability in geotechnical design and construction.'
-Objectives: '1. To develop a comprehensive framework for uncertainty modeling in geotechnical engineering using probabilistic approaches.
-2. To integrate machine learning techniques into geotechnical analysis, enabling the prediction of soil properties, bearing capacities, and other critical parameters from complex and varied datasets.
-3. To evaluate the effectiveness of machine learning models in comparison to traditional methods, particularly in scenarios involving limited or noisy data.
-4. To enhance risk assessment and decision-making processes in geotechnical engineering by combining uncertainty quantification with data-driven insights.'
+summary: Stochastic Hazard Assessment of Landslide
+abstract: 'Landslides pose significant threats to infrastructure, human safety, and the environment, especially in regions characterized by steep terrain and unstable soil conditions. Traditional methods of assessing landslide hazards often rely on simplified models that may not fully capture the complex interactions and uncertainties inherent in geotechnical systems. The proposed research aims to develop a stochastic hazard assessment framework for landslides, utilizing large deformation analysis to model the complex soil behaviors and deformation mechanisms under various loading conditions. By incorporating a stochastic approach, this study will account for uncertainties in soil properties and external factors, providing a more robust and comprehensive assessment of landslide risks.'
+Problem Statement: 'The accurate prediction of landslides is hindered by uncertainties associated with soil properties, environmental factors, and complex interactions within slope systems. Current deterministic approaches often fail to adequately capture the nonlinear and large-scale deformations that occur during landslides. This results in either overly conservative or insufficiently predictive hazard assessments. Large deformation analysis provides an advanced modeling framework that can capture significant changes in soil behavior over time, including the development of shear zones and large-scale displacements. A stochastic approach combined with LDA can provide a more realistic representation of the uncertainties and mechanisms involved in landslide events, leading to improved hazard assessments.'
+Objectives: '1. To develop a stochastic hazard assessment framework for landslides that incorporates large deformation analysis to capture complex soil deformation behaviors.
+2. To identify key factors contributing to landslide susceptibility and quantify their uncertainties using probabilistic approaches.
+3. To create detailed probabilistic hazard maps that reflect the spatial variability and uncertainties in landslide-prone regions.
+4. To provide recommendations for landslide risk management and mitigation based on the results of the stochastic hazard assessme'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,8 +48,8 @@ projects:
 ---
 
 **References**:
-- Liu, X., Ma, G., Rezania, M., Li, X., & Jiang, S. H. (2024). An improved BUS approach for Bayesian inverse analysis of soil parameters incorporating extensive field data. Computers and Geotechnics, 174, 106641. [_ref_](https://doi.org/10.1016/j.compgeo.2024.106641) 
-- Liu, X., Liu, Y., Yang, Z., & Li, X. (2024). A novel dimension reduction-based metamodel approach for efficient slope reliability analysis considering soil spatial variability. Computers and Geotechnics, 172, 106423. [_ref_](https://doi.org/10.1016/j.compgeo.2024.106423) 
-- Liu, X., Liu, Y., Li, X., Yang, Z., & Jiang, S. H. (2023). Efficient adaptive reliability-based design optimization for geotechnical structures with multiple design parameters. Computers and Geotechnics, 162, 105675. [_ref_](https://doi.org/10.1016/j.compgeo.2023.105675) 
+- Jiang, S. H., Li, J. P., Ma, G. T., & Rezania, M. (2024). Probabilistic assessment of 3D slope failures in spatially variable soils by cooperative stochastic material point method. Computers and Geotechnics, 172, 106413. [_ref_](https://doi.org/10.1016/j.compgeo.2024.106413) 
+- Jiang, S. H., Li, J. P., Ma, G., Rezania, M., & Huang, J. (2024). Stochastic hazard assessment framework of landslide blocking river by depth-integrated continuum method and random field theory. Landslides, 1-19. [_ref_](https://doi.org/10.1007/s10346-024-02347-0) 
+- 李剑平, 蒋水华, 黄发明, & 黄劲松. (2024). 考虑渗透系数空间变异性的降雨作用下边坡大变形破坏特征. 应用基础与工程科学学报, 32(1), 72-84. [_ref_](http://www.jbse.net/article/doi/10.16058/j.issn.1005-0930.2024.01.005) 
 
 
