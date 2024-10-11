@@ -12,13 +12,13 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           
-          - Supervisor
-          - Researcher
-          - Grad Student
+          - Supervisors
+          - Co-Supervisors
+          - Grad Students
           - Administration
-          - Project Leader
-          - Visitor
-          - Alumni
+          - Project Leaders
+          - Visitors
+          - Alumnis
     
       sort_by: Params.last_name
       sort_ascending: true
