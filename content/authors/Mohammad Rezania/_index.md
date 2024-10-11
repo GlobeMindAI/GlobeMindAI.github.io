@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
+  - Supervisors
 ---
 Dr. Mohammad Rezania obtained B.Sc. degree in Civil Engineering from Sharif University of Technology in 2002, my M.Sc. degree in Geotechnical Engineering from Iran University of Science and Technology in 2004, and my PhD in Geotechnical Engineering from University of Exeter in 2008.
 
