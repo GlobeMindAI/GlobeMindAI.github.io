@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-EIT-Warwick Joint PhD Programme in GlobeMind AI Goup  Now Open for Applications.
+SJTU-Warwick Joint PhD Programme in GlobeMind AI Goup  Now Open for Applications.
 
 <!--more-->
 
