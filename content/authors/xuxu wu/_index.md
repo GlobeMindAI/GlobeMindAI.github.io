@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D of Condensed Matter Physics, and Quantum Sensing
-position: Research Fellow
+role: Research Fellow at Warwick’s Department of Physics
 
 # Organizations/Affiliations
 organizations:
