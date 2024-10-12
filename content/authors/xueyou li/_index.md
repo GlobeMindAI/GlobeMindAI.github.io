@@ -47,5 +47,5 @@ user_groups:
 ---
 
 Prof. Li is the professor of Sun Yat-Sen University and Ph.D. supervisor. His research primarily focuses on reliability analysis and risk assessment in geotechnical engineering, big data and multi-source information fusion in geotechnics, slope and foundation engineering, and marine geotechnical engineering. Professor Li has led or participated in numerous research projects, including those funded by the National Natural Science Foundation of China, the National Key R&D Program, and the Guangdong Pearl River Talent Program. He has been awarded the First Prize of Guangdong Provincial Natural Science Award for his contributions.
-To date, Professor Li has published over 70 academic papers in leading international journals such as *Geoscience Frontiers*, *Computers and Geotechnics*, *Journal of Geotechnical and Geoenvironmental Engineering*, *International Journal of Rock Mechanics and Mining Sciences*, and *Engineering Geology*.
+To date, Professor Li has published over 70 academic papers in leading international journals such as Geoscience Frontiers, Computers and Geotechnics, Journal of Geotechnical and Geoenvironmental Engineering, International Journal of Rock Mechanics and Mining Sciences, and Engineering Geology.
 
